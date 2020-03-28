@@ -1,0 +1,2 @@
+rootProject.name='DemoFireApp'
+include ':app'
